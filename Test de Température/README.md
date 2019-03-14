@@ -17,3 +17,5 @@ Nous nous sommes arrété a 90° pour ne pas endomager le matériel.
 | 64°-70°       | 46036              | 3.58Go              |
 | 73°-76°       | 45944              | 3.58Go              |
 | 81°-91°       | 42918              | 3.41Go              |
+
+![Graphique](https://github.com/hubos89/ProjectForensic/blob/master/Test%20de%20Temp%C3%A9rature/Graphique.png "Nombre de Fichier et Quantitées de données en fonction de la température")
