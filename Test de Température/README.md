@@ -9,3 +9,11 @@ les relevé de température ont été éffectué avec la commande hddtemp au dé
 
 Nous nous sommes arrété a 90° pour ne pas endomager le matériel.
 
+
+
+| Température   | Nombre de fichier  | Quantité de Donnée  |
+| ------------- |:------------------:| -------------------:|
+| 43°-47°       | 46474              | 3.6Go               |
+| 64°-70°       | 46036              | 3.58Go              |
+| 73°-76°       | 45944              | 3.58Go              |
+| 81°-91°       | 42918              | 3.41Go              |
