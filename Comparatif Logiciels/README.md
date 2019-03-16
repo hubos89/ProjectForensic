@@ -12,7 +12,7 @@ Dans un premier temps nous avons choisi les différents logiciels via une recher
 Les logiciels retenus sont les suivants : 
 
 * Photorec
-* test
+* GNU ddrescue
 * test
 
 Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous obtenu les résultats ci-dessous.
@@ -24,6 +24,12 @@ Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous o
 ###### Photorec :
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_final.PNG "Aperçu Final Photorec")
 
+###### ddrescue :
+![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/ddrescue_final.PNG "Aperçu Final ddrescue")
+
+###### ??? :
+
+
 ### Récapitulatif des résultats obtenus
 
 Voici le tableau récapitulatif de nos résulats en prenant en compte seulement le temps et la quantité de données récupérées :
@@ -32,12 +38,13 @@ Voici le tableau récapitulatif de nos résulats en prenant en compte seulement 
 | ------------- |:------------------:|:-------------------:|:-------------------:|:-------------------:|:--------------------:|
 | Foremost      |  ???               | > 2j                | > 36 GO             |  > 500 000          |625 142 448           |
 | Photorec      | > 150h             | 1h                  | > 4 GO              | 8263                |10 507 792            |
-| Photorec      | > 150h             | 1h                  | ????                |              |625142448             |
-| Photorec      | > 150h             | 1h                  | ????                |           |625142448             |
+| ddrescue      | > 1h               | 1h                  | ????                |                     |                 |
+
   
 Voici le tableau récapitulatif de nos résulats en prenant en compte cette fois le nombre de fichiers en fonction de leurs types :
 
 | Solution      | DOC, TXT    | GIF    | JPG    | PDF    |PNG     | PPT(x) |XLS     |ZIP     | WAV, ... | EXE    |
 | ------------- |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-----------:|:------:|
 | Foremost      | > 2000 | 105 326| 54 469 | 27 604 | 272 848| > 500  | 1361   | 9595   | > 150       |  ???   |
-| Photorec      |  4719    | 232    | 329    |    ??? | 1241   |  ???   |  ???   |   ???? |  >150       | 1386   |
+| Photorec      |  4719    | 232    | 329    |    ??? | 1241   |  ???   |  ???   |   ???? |  >150     | 1386   |
+| ddrescue      |  |  |  |  |  |  |  |  |  |  | 
