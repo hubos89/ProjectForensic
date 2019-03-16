@@ -21,7 +21,9 @@ Voici le tableau récapitulatif de nos résulats en prenant en compte seulement 
 
 Voici le tableau récapitulatif de nos résulats en prenant en compte cette fois le nombre de fichiers en fonction de leurs types :
 
-| Solution      | DOC     | GIF | JPG | PDF |PNG | PPT(x) |XLS|ZIP | Vidéos/sons 
+| Solution      | DOC    | GIF    | JPG    | PDF    |PNG     | PPT(x) |XLS     |ZIP     | Vidéos/sons 
 | ------------- |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| Foremost      |  > 2000 | 105 326 | 54 469| 27 604 | 272 848 | > 500 | 1361 | 9595 | > 150|
-| Photorec      |> 2000 | 105 326 | 54 469| 27 604 | 272 848 | > 500 | 1361 | 9595 | > 150|
+| Foremost      | > 2000 | 105 326| 54 469 | 27 604 | 272 848| > 500  | 1361   | 9595   | > 150  |
+| Photorec      |> 2000  | 105 326| 54 469 | 27 604 | 272 848| > 500  | 1361   | 9595   | > 150  |
+| Photorec      |> 2000  | 105 326| 54 469 | 27 604 | 272 848| > 500  | 1361   | 9595   | > 150  |
+| Photorec      |> 2000  | 105 326| 54 469 | 27 604 | 272 848| > 500  | 1361   | 9595   | > 150  |
