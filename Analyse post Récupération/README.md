@@ -1,4 +1,4 @@
-## Analyse post récupération ![VirusTotal Logo](https://pbs.twimg.com/profile_images/903041019331174400/BIaetD1J_400x400.jpg)
+## Analyse post récupération 
 
 Le fichier VirusTotalAll permet d'analyser un dossier (passé en parametre) en recherchant les hash des fichiers du dossier sur virustotal. Cela permet de faire une recherche virale simple mais sans envoyer de fichiers contenant des informations sensibles puisque seulement les hash sont envoyés. 
 
@@ -13,3 +13,5 @@ De plus, dans un autre fichier coresponsant à l'analyse, le nom du fichier posi
 Le script pocède une fonction d'attente si le quota journalier sur l'API VirusTotal est atteint.
 
 Il faut spécifier votre clé public virusTotal dans le code source
+
+![VirusTotal Logo](https://www.virustotal.com/ui-public/images/logo.svg)
