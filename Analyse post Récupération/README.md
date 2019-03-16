@@ -17,3 +17,5 @@ Le script pocède une fonction d'attente si le quota journalier sur l'API VirusT
 Il faut spécifier votre clé public virusTotal dans le code source
 
 ![VirusTotal Logo](https://www.virustotal.com/ui-public/images/logo.svg)
+
+## Analyse des fichiers
