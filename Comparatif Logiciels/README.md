@@ -9,6 +9,26 @@ Le protocole est le suivant :
 - Utilisation des autres solutions avec seulement 1H pour échantillonnage
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Récapitulatif des résultats obtenus
+
 Voici le tableau récapitulatif de nos résulats en prenant en compte seulement le temps et la quantité de données récupérées :
 
 | Solution      | Temps estimé       | Temps réalisé       | Quantité de données |
