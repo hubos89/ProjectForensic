@@ -11,7 +11,7 @@ Le protocole est le suivant :
 Dans un premier temps nous avons choisi les différents logiciels via une recherche internet pour connaître les alternatives à Foremost. 
 Les logiciels retenus sont les suivants : 
 
-* Photorec
+* PhotoRec
 * GNU ddrescue
 * test
 
@@ -21,10 +21,10 @@ Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous o
 ###### Foremost : 
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/foremost_final.png "Aperçu Final Foremost")
 
-###### Photorec :
+###### PhotoRec :
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_final.PNG "Aperçu Final Photorec")
 
-###### ddrescue :
+###### GNU ddrescue :
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/ddrescue_final.PNG "Aperçu Final ddrescue")
 
 ###### ??? :
@@ -37,8 +37,8 @@ Voici le tableau récapitulatif de nos résulats en prenant en compte seulement 
 | Solution      | Temps estimé       | Temps réalisé       | Quantité de données | Nombre de fichiers  |Nombre de secteurs lus|
 | ------------- |:------------------:|:-------------------:|:-------------------:|:-------------------:|:--------------------:|
 | Foremost      |  ???               | > 2j                | > 36 GO             |  > 500 000          |625 142 448           |
-| Photorec      | > 150h             | 1h                  | > 4 GO              | 8263                |10 507 792            |
-| ddrescue      | > 1h               | 1h                  | ????                |                     |                 |
+| PhotoRec      | > 150h             | 1h                  | > 4 GO              | 8263                |10 507 792            |
+| GNU ddrescue  | > 1h               | 1h                  | ????                |                     |                 |
 
   
 Voici le tableau récapitulatif de nos résulats en prenant en compte cette fois le nombre de fichiers en fonction de leurs types :
@@ -46,5 +46,5 @@ Voici le tableau récapitulatif de nos résulats en prenant en compte cette fois
 | Solution      | DOC, TXT    | GIF    | JPG    | PDF    |PNG     | PPT(x) |XLS     |ZIP     | WAV, ... | EXE    |
 | ------------- |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-----------:|:------:|
 | Foremost      | > 2000 | 105 326| 54 469 | 27 604 | 272 848| > 500  | 1361   | 9595   | > 150       |  ???   |
-| Photorec      |  4719    | 232    | 329    |    ??? | 1241   |  ???   |  ???   |   ???? |  >150     | 1386   |
-| ddrescue      |  |  |  |  |  |  |  |  |  |  | 
+| PhotoRec      |  4719    | 232    | 329    |    ??? | 1241   |  ???   |  ???   |   ???? |  >150     | 1386   |
+| GNU ddrescue  |  |  |  |  |  |  |  |  |  |  | 
