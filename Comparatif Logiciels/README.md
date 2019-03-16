@@ -22,7 +22,7 @@ Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous o
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/foremost_final.png "Aperçu Final Foremost")
 
 ###### Photorec :
-![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_final.png "Aperçu Final Photorec")
+![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_final.PNG "Aperçu Final Photorec")
 
 ### Récapitulatif des résultats obtenus
 
