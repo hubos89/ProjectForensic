@@ -21,6 +21,7 @@ Il faut spécifier votre clé publique VirusTotal dans le code source.
 ## Analyse des fichiers
 
 Un Nous avons créer un [script](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/AnalyseWord.py) qui permet de faire une analyse plus rapide des fichier DOCX. ce script ouvre uniquement les fichier qui ont moins de quatre paragraphe et dont le premier paragraphe fait moins de 40 caractere. Cela permet de faire un gros tris quand nous avons à  traiter des centaines de documents word. Une fois que le script a finit de travailler, des fichiers sont créés pour chaque résultat positif avec le texte des paragraphe dedans. Grâce à ce script nous avons juste à ouvrir les quelques fichier texte afin de vérifier leur contenu. 
+
 Le script est différent pour Windows et Linux, car une bibliothèque n'est pas disponible sur Windows, le tout est transparent lors de l'utilisation, juste un petit message indique aux utilisateurs Windows la possiblité de fichier vide dans les résulats. 
 
 Le script n'est pas écrit pour être sans failles mais plutôt pour avoir un tris efficace et rapide des fichiers Word. 
