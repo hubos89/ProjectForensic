@@ -11,9 +11,10 @@ Le protocole est le suivant :
 Dans un premier temps nous avons choisi les différents logiciels via une recherche internet pour connaître les alternatives à Foremost. 
 Les logiciels retenus sont les suivants : 
 
-* PhotoRec
-* GNU ddrescue
-* TestDisk
+* PhotoRec (Linux) 
+* GNU ddrescue (Linux)
+* TestDisk (Linux & Windows)
+* Recuva (Windows)
 
 Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous obtenu les résultats ci-dessous.
 ### Aperçu final des différentes solutions
@@ -28,7 +29,11 @@ Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous o
 Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure. 
 
 ###### TestDisk:
-Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure. 
+Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure sur Linux.
+
+###### Recuva:
+![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/recuva_final.png "Aperçu Final Recuva")
+
 
 ### Récapitulatif des résultats obtenus
 
@@ -36,10 +41,11 @@ Voici le tableau récapitulatif de nos résulats en prenant en compte seulement 
 
 | Solution      | Temps estimé       | Temps réalisé       | Quantité de données | Nombre de fichiers  |Nombre de secteurs lus|
 | ------------- |:------------------:|:-------------------:|:-------------------:|:-------------------:|:--------------------:|
-| Foremost      |  ???               | > 2j                | > 36 GO             |  > 500 000          |625 142 448           |
-| PhotoRec      | > 150h             | 1h                  | > 4 GO              | 8263                |10 507 792            |
+| Foremost      |  ???               | > 2j                | > 36 Go             |  > 500 000          |625 142 448           |
+| PhotoRec      | > 150h             | 1h                  | > 4 Go              | 8263                |10 507 792            |
 | GNU ddrescue  | > 2h               | 1h                  | ????                |        ????         |              ????    |
 | TestDisk      | > 1h               | 1h                  | ????                |        ????         |              ????    |
+| Recuva        | > 2h               | 1h                  |             |                 |              ????    |
 
   
 Voici le tableau récapitulatif de nos résulats en prenant en compte cette fois le nombre de fichiers en fonction de leurs types :
