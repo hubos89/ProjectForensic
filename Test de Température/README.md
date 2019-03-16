@@ -21,6 +21,4 @@ Nous nous sommes arrété a 90° pour ne pas endomager le matériel.
 | 81°-91°       | 42918              | 3.41Go              |
 
 ![Graphique](https://github.com/hubos89/ProjectForensic/blob/master/Test%20de%20Temp%C3%A9rature/GraphTemperature.png "Nombre de Fichier et Quantitées de données en fonction de la température")
-
-
 Comme on peut le constater sur les différent graphiques, la température a un impact léger sur la récupération de données en dessous de 80°. Au dela de cette température on observe une baisse de 7% de la performance sur une dizaine de degrès en plus ce qui est moins négligeable. Cependant ces température son assez proche des condition maximale d'utilisation de matériel informatique (100° environt), la chute de performance est donc compréhensible arrivé à cette temérature. 
