@@ -13,7 +13,7 @@ Les logiciels retenus sont les suivants :
 
 * PhotoRec
 * GNU ddrescue
-* test
+* TestDisk
 
 Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous obtenu les résultats ci-dessous.
 ### Aperçu final des différentes solutions
@@ -25,10 +25,10 @@ Dans un second temps nous avons réalisé le protocole établi ci-dessus. Nous o
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_final.PNG "Aperçu Final Photorec")
 
 ###### GNU ddrescue :
-![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/ddrescue_final.PNG "Aperçu Final ddrescue")
+Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure. 
 
-###### ??? :
-
+###### TestDisk:
+Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure. 
 
 ### Récapitulatif des résultats obtenus
 
@@ -38,7 +38,8 @@ Voici le tableau récapitulatif de nos résulats en prenant en compte seulement 
 | ------------- |:------------------:|:-------------------:|:-------------------:|:-------------------:|:--------------------:|
 | Foremost      |  ???               | > 2j                | > 36 GO             |  > 500 000          |625 142 448           |
 | PhotoRec      | > 150h             | 1h                  | > 4 GO              | 8263                |10 507 792            |
-| GNU ddrescue  | > 1h               | 1h                  | ????                |                     |                 |
+| GNU ddrescue  | > 2h               | 1h                  | ????                |        ????         |              ????    |
+| TestDisk      | > 1h               | 1h                  | ????                |        ????         |              ????    |
 
   
 Voici le tableau récapitulatif de nos résulats en prenant en compte cette fois le nombre de fichiers en fonction de leurs types :
