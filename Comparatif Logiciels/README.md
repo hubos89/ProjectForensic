@@ -29,12 +29,14 @@ Logiciel libre qui se présente sous la forme de lignes de commande. Plus comple
 Sous Linux ou Windows, les dossiers se présentent de la même manière :
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_final.PNG "Aperçu Final Photorec")
 
+De plus, voici le traitement sous Windows : 
+![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/testdisk_win.png "Aperçu Final Photorec")
+
 ###### [GNU ddrescue](https://www.linux.com/learn/intro-to-linux/2017/3/GNU-DDRESCUE-BEST-DAMAGED-DRIVE-RESCUE) :
 Malheureusement, malgré avoir suivi plusieurs tutoriels aucune donnée n'a réussi à être extraite au bout d'une heure. De nombreuses erreurs sont apparues comme par exemple le fait que le disque dur externe ne correspond pas aux attentes de GNU ddrescue.
 
 ###### [TestDisk](https://www.cgsecurity.org/wiki/TestDisk):
-Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure sur Linux. Comme-ci-dessus, après de nombeux formatage du disque dur externe, aucune donnée n'a pu être extraite. Néanmoins, nous avons pu le lancer sous Windows et obtenir les résultats suivants : 
-![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/testdisk_win.png "Aperçu Final TestDisk")
+Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure sur Linux et Windows. Comme-ci-dessus, après de nombeux formatage du disque dur externe, aucune donnée n'a pu être extraite. 
 
 ###### [Recuva](https://www.ccleaner.com/recuva):
 Logiciel gratuit développé par Piriform (tout comme CCleaner) permet de restaurer, via Windows, des fichiers marqués par le système comme "libres" et donc sous-entendu comme "supprimés".
