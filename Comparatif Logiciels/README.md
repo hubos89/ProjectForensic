@@ -37,6 +37,7 @@ Malheureusement, malgré avoir suivi plusieurs tutoriels aucune donnée n'a réu
 
 ###### [TestDisk](https://www.cgsecurity.org/wiki/TestDisk):
 Malheureusement, malgré avoir suivi plusieurs tutoriels aucunes données n'a réussi à être extraite au bout d'une heure sur Linux. Comme-ci-dessus, après de nombeux formatage du disque dur externe, aucune donnée n'a pu être extraite. Néanmoins, 
+![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/testdisk_win.png "Aperçu Final TestDisk")
 
 ###### [Recuva](https://www.ccleaner.com/recuva):
 Logiciel gratuit développé par Piriform (tout comme CCleaner) permet de restaurer, via Windows, des fichiers marqués par le système comme "libres" et donc sous-entendu comme "supprimés".
