@@ -30,7 +30,7 @@ Sous Linux ou Windows, les dossiers se présentent de la même manière :
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_final.PNG "Aperçu Final Photorec")
 
 Exemple de restauration sous Windows : 
-![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_win.PNG "Aperçu Windows Photorec")
+![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/photorec_win.png "Aperçu Windows Photorec")
 
 ###### [GNU ddrescue](https://www.linux.com/learn/intro-to-linux/2017/3/GNU-DDRESCUE-BEST-DAMAGED-DRIVE-RESCUE) :
 Malheureusement, malgré avoir suivi plusieurs tutoriels aucune donnée n'a réussi à être extraite au bout d'une heure. De nombreuses erreurs sont apparues comme par exemple le fait que le disque dur externe ne correspond pas aux attentes de GNU ddrescue.
