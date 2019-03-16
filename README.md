@@ -8,7 +8,7 @@ Ce projet a pour but de faire une analyse sur la récupération de données sur 
   * test en fonction de conditions extérieur
 * Analyse post récupération
   * Analyse Virale
-  * Analyse des ficheir
+  * Analyse des fichier
 
 # Remerciement
 
