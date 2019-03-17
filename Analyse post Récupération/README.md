@@ -14,14 +14,14 @@ De plus, dans un autre fichier corresponsant à l'analyse, celui-ci est écrit a
 
 Le script possède une fonction d'attente si le quota journalier sur l'API VirusTotal est atteint.
 
-Il faut spécifier votre clé publique VirusTotal dans le code source.
+Il faut spécifier la clé publique VirusTotal dans le code source.
 
 ![VirusTotal Logo](https://www.virustotal.com/ui-public/images/logo.svg)
 
 ## Analyse des fichiers
 
-Un Nous avons créer un [script](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/AnalyseWord.py) qui permet de faire une analyse plus rapide des fichier DOCX. ce script ouvre uniquement les fichier qui ont moins de quatre paragraphe et dont le premier paragraphe fait moins de 40 caractere. Cela permet de faire un gros tris quand nous avons à  traiter des centaines de documents word. Une fois que le script a finit de travailler, des fichiers sont créés pour chaque résultat positif avec le texte des paragraphe dedans. Grâce à ce script nous avons juste à ouvrir les quelques fichier texte afin de vérifier leur contenu. 
+Nous avons créer un [script](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/AnalyseWord.py) qui permet de faire une analyse plus rapide des fichiers DOCX. Ce script ouvre uniquement les fichiers qui ont moins de quatre paragraphes et dont le premier paragraphe fait moins de 40 caractères. Cela permet de dégrossir les quantités de données à trier car les documents Word que nous avons dû traiter se compte par centaines. Une fois que le script a fini de travailler, des fichiers sont créés pour chaque résultat positif contenant le texte sous forme de paragraphes. Ainsi ce script nous permet seulement d'ouvrir les quelques fichiers texte afin de vérifier leurs contenus. 
 
-Le script est différent pour Windows et Linux, car une bibliothèque n'est pas disponible sur Windows, le tout est transparent lors de l'utilisation, juste un petit message indique aux utilisateurs Windows la possiblité de fichier vide dans les résulats. 
+Le script contient des différences entre Windows et Linux car une bibliothèque n'est pas disponible sur Windows. Néanmoins, le tout est transparent lors de l'utilisation à la différence dans l'interface où un message indique aux utilisateurs Windows la possiblité d'existence de fichiers vides dans les résultats. 
 
 Le script n'est pas écrit pour être sans failles mais plutôt pour avoir un tris efficace et rapide des fichiers Word. 
