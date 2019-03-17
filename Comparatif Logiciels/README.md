@@ -45,6 +45,25 @@ Logiciel gratuit développé par Piriform (tout comme CCleaner) permet de restau
 Ici nous pouvons voir une restauration des fichiers en cours : 
 ![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/recuva_recover.png "Aperçu d'une restauration Recuva")
 
+###### [The Sleuth Kit (TSK)](https://www.sleuthkit.org):
+
+Le *framework* **The sleuth kit** n'est plus en développement et il est préférable d'utilisez **Autopsy**. Cependant, nous avons pris la peine de nous renseigner sur cette bibliothèque qui peut toujours être utilisée et qui est ressortie lors de nos recherches.
+
+Le principe de ce *framework* se passe en trois étapes : 
+
+1. Il y a une récupération des méta-données et qui sont centralisées dans une base de données (SQLite, MySQL...).
+2. La seconde étape consiste à rajouter dans cette BDD des informations comme la valeur des hashs, de l'entropie...
+3. La dernière phase consiste de regrouper toute les informations dans un document.
+
+**TSK** peut être utilisé en ligne de commande ou sur un programme en C++. En consultant la documentation nous pouvons lire que des fonctions existent pour accéder au contenu des fichiers sur les disques.
+
+###### [Autopsy](https://www.sleuthkit.org/autopsy/):
+
+Autopsy utilise les commandes de TSK et utilise une interface graphique via un client web.
+La phase préparatoire permet d'indiquer le nom de la BDD qui va être utilisée, le nom des personnes travaillant sur le projet et un calcul du hash s'effectue après avoir indiqué sur quelle image nous travaillons.
+
+Une fois le calcul effectué sur l'intégralité du disque, nous pouvons explorer celui-ci, voir les hashs des fichiers et lire les contenus.
+
 
 ### Récapitulatif des résultats obtenus
 
