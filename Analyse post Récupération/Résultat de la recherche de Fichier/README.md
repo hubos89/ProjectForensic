@@ -1,11 +1,11 @@
-Ce projet nous a permit de nous rendre compte à quel point les informations peuvent être facilement récupérées et les détourner peut être dévastateur.
+Ce projet nous a permis de nous rendre compte à quel point les informations peuvent être facilement récupérées et les détourner peut être dévastateur.
 
-Nous pouvons récupérer des informations potentiellement personnelles comme cette voiture et ce batiment asiatique.
+Nous pouvons récupérer des informations potentiellement personnelles comme cette voiture et ce bâtiment asiatique.
 
 ![Plaque d'imatriculation](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/184842368B.jpg)
 ![Photos de vacances](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/190374024.jpg)
 
-Si nous nous concentrons sur l'aspect profesionnel, nous pouvons. avoir des informations sur les employés ou le matériel utilisé :
+Si nous nous concentrons sur l'aspect professionnel, nous pouvons avoir des informations sur les employés ou le matériel utilisé :
 
 ![Photo de matériel professionel](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/229217624B.jpg)
 ![Photo de matériel professionel](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/230031328B.jpg)
