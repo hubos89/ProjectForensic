@@ -47,15 +47,15 @@ Ici nous pouvons voir une restauration des fichiers en cours :
 
 ###### [The Sleuth Kit (TSK)](https://www.sleuthkit.org):
 
-Le *framework* **The sleuth kit** n'est plus en développement et il est préférable d'utilisez **Autopsy**. Cependant, nous avons pris la peine de nous renseigner sur cette bibliothèque qui peut toujours être utilisée et qui est ressortie lors de nos recherches.
+Le *framework* **The sleuth kit** n'est plus en développement et il est préférable d'utiliser **Autopsy**. Cependant, nous avons pris la peine de nous renseigner sur cette bibliothèque qui peut toujours être utilisée.
 
-Le principe de ce *framework* se passe en trois étapes et permet de récupérer des fichiers sur un disque comme opourrait le faire **foremost** : 
+Le principe de ce *framework* se passe en trois étapes et permet de récupérer des fichiers sur un disque dur comme **Foremost** le ferait : 
 
-1. Il y a une récupération des méta-données et qui sont centralisées dans une base de données (SQLite, MySQL...).
-2. La seconde étape consiste à rajouter dans cette BDD des informations comme la valeur des hashs, de l'entropie...
-3. La dernière phase consiste de regrouper toute les informations dans un document.
+1. Il y a une récupération des méta-données et qui sont centralisées dans une base de données (SQLite, MySQL...) ;
+2. Il y a un rajout d'effectué dans cette BDD des informations comme la valeur des hashs, de l'entropie... ;
+3. On regroupe toutes les informations dans un document.
 
-**TSK** peut être utilisé en ligne de commande ou sur un programme en C++. En consultant la documentation nous pouvons lire que des fonctions existent pour accéder au contenu des fichiers sur les disques.
+**TSK** peut être utilisé en ligne de commande ou sur un programme en C++. En consultant la documentation nous pouvons lire que des fonctions existent pour accéder aux contenus des fichiers sur les disques.
 
 ###### [Autopsy](https://www.sleuthkit.org/autopsy/):
 
