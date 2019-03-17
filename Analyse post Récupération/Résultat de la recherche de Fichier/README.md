@@ -22,4 +22,3 @@ Ou sur un seul employé, nous pouvons "intégrer" l'entreprise avec des informat
 
 Ce que nous affichons ici n'est qu'un échantillon de ce que nous avons pu récupérer. Il convient donc de bien prévenir les entreprises et les employés qu'un matériel numérique d'occasion peut fournir des informations sur sa vie ou sur l'entreprise si la gestion du matériel est mal effectué.
 
-![Ecran de téléphone](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/51170840B.png)
