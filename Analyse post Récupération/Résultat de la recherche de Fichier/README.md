@@ -1,6 +1,6 @@
 Ce projet nous a permis de nous rendre compte à quel point les informations peuvent être facilement récupérées et les détourner peut être dévastateur.
 
-Nous pouvons récupérer des informations potentiellement personnelles comme des plaques d'imatriculations ou des photos de vances.
+Nous pouvons récupérer des informations potentiellement personnelles comme des plaques d'imatriculations ou des photos de vacances.
 
 ![Plaque d'imatriculation](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/184842368B.jpg)
 ![Photos de vacances](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/190374024.jpg)
