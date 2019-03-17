@@ -24,4 +24,4 @@ Nous avons créer un [script](https://github.com/hubos89/ProjectForensic/blob/ma
 
 Le script contient des différences entre Windows et Linux car une bibliothèque n'est pas disponible sur Windows. Néanmoins, le tout est transparent lors de l'utilisation à la différence dans l'interface où un message indique aux utilisateurs Windows la possiblité d'existence de fichiers vides dans les résultats. 
 
-Le script n'est pas écrit pour être sans failles mais plutôt pour avoir un tris efficace et rapide des fichiers Word. 
+Le script n'est pas écrit pour être sans faille mais plutôt pour avoir un tris efficace et rapide des fichiers Word. 
