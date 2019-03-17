@@ -18,7 +18,10 @@ Ou sur un seul employé, nous pouvons "intégrer" l'entreprise avec des informat
 ![Ecran de téléphone](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/51170840B.png)
 ![Portrait](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/294744039B.png)
 ![Potentiel mot de passe](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/326574198B.png)
-![Photo de carte de crédit](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/376439848B.jpg)
+![Photo de carte de crédit](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/845715748B.PNG)
+
+![Dossier du personnel](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/758417528B.PNG)
+![schéma technique + OS](https://github.com/hubos89/ProjectForensic/blob/master/Analyse%20post%20R%C3%A9cup%C3%A9ration/R%C3%A9sultat%20de%20la%20recherche%20de%20Fichier/845715286B.PNG)
 
 Ce que nous affichons ici n'est qu'un échantillon de ce que nous avons pu récupérer. Il convient donc de bien prévenir les entreprises et les employés qu'un matériel numérique d'occasion peut fournir des informations sur sa vie ou sur l'entreprise si la gestion du matériel est mal effectué.
 
