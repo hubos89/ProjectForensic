@@ -49,7 +49,7 @@ Ici nous pouvons voir une restauration des fichiers en cours :
 
 Le *framework* **The sleuth kit** n'est plus en développement et il est préférable d'utilisez **Autopsy**. Cependant, nous avons pris la peine de nous renseigner sur cette bibliothèque qui peut toujours être utilisée et qui est ressortie lors de nos recherches.
 
-Le principe de ce *framework* se passe en trois étapes : 
+Le principe de ce *framework* se passe en trois étapes et permet de récupérer des fichiers sur un disque comme opourrait le faire **foremost** : 
 
 1. Il y a une récupération des méta-données et qui sont centralisées dans une base de données (SQLite, MySQL...).
 2. La seconde étape consiste à rajouter dans cette BDD des informations comme la valeur des hashs, de l'entropie...
