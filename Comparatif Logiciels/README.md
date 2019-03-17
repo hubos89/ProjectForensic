@@ -64,6 +64,8 @@ La phase préparatoire permet d'indiquer le nom de la BDD qui va être utilisée
 
 Une fois le calcul effectué sur l'intégralité du disque, nous pouvons explorer celui-ci, voir les hashs des fichiers et lire les contenus.
 
+![alt text](https://github.com/hubos89/ProjectForensic/blob/master/Comparatif%20Logiciels/Autopsy.png "Aperçu de l'interface d'Autopsy avec une récupération")
+
 
 ### Récapitulatif des résultats obtenus
 
